@@ -1,2 +1,2 @@
 # Bible-translations
-Just as it sounds
+EXCLUSIVELY FOR THE 'ABIDE' APPLICATION.
