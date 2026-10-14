@@ -1,0 +1,7 @@
+{
+  "translations": [
+    { "name": "Legacy Standard Bible", "url": "lsb.epub" },
+    { "name": "Geneva Bible", "url": "gnv.epub" },
+    { "name": "New King James Version", "url": "nkjv.epub" }
+  ]
+}
