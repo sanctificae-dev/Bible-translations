@@ -3,5 +3,6 @@
     { "name": "Legacy Standard Bible", "url": "LSB.epub" },
     { "name": "Geneva Bible", "url": "GNV.epub" },
     { "name": "New King James Version", "url": "NKJV.epub" }
+    { "name": "King James Version", "url": "KJV.epub" }
   ]
 }
